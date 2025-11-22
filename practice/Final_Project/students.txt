@@ -1,0 +1,4 @@
+ID: 102   || NAME: ayoub elhari         || GRADE: 20.00
+ID: 99    || NAME: haytam meddah        || GRADE: 13.00
+ID: 89    || NAME: hassan               || GRADE: 2.80
+ID: 13    || NAME: hiba                 || GRADE: 10.50
